@@ -1,0 +1,39 @@
+#header-nav {
+    background-color: yellow;
+    border-radius: 0;
+    border: 0;    
+  }
+
+.navbar-brand {
+   padding-top: 25px;
+}
+.navbar-brand h1 { /* Restaurant name */
+   font-family: 'Lora', serif;   
+   font-size: 1.5em;
+   color: black;
+   text-transform: uppercase;
+   font-weight: bold;
+   text-shadow: 1px 1px 1px #222;
+   margin-top: 0;
+   margin-bottom: 0;
+   line-height: .75;
+}
+
+#collapsable-nav{
+    text-align: center;
+    
+}
+
+#info-title{
+    font-weight: bold;
+}
+
+.col-lg-12{    
+    background-color: yellow;       
+}
+
+#info h3{
+    font-weight: bold;
+    text-align: center;
+}
+
